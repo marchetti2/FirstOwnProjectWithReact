@@ -1,0 +1,14 @@
+ 1) corigir as edificaçoes com area menor que 750 mas com altura maior que 12 metros
+ 2) corrigir quando é alterado uma divisao e a descriçao continua com a da divisao anterior
+3) corrigir sobre a divisao a-1, colocar ela isenta em tudo
+4) vericar areas:
+    area <=750 m2
+    750 < area <= 1200
+    1200 < area <= 1500
+    1500 < area <= 2000
+    2000 < area <= 3000
+    3000 < area <= 6000
+    6000 < area <= 10000
+    10000 < area <= 15000
+    15000 < area <= 30000
+    area >= 30000 m2
