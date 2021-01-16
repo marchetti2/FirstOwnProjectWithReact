@@ -6,7 +6,7 @@ I tried to use as few dependencies as possible, to try to practice javascript. F
 </p>
 
 <p align="center">
-  <img width="110%" src="https://media.giphy.com/media/aGk8lmBJ4yuMMbgKXC/giphy.gif">
+  <img src="https://media.giphy.com/media/aGk8lmBJ4yuMMbgKXC/giphy.gif">
 </p>
 
 <h2 id="technologies">Technologies</h2>
