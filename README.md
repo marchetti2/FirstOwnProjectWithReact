@@ -4,11 +4,9 @@ I tried to use as few dependencies as possible, to try to practice javascript. F
 <p align="center">
  <a href="#technologies">Technologies</a> | <a href="#features">Features</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/aGk8lmBJ4yuMMbgKXC/giphy.gif">
 </p>
-
 <h2 id="technologies">Technologies</h2>
 
 - [react](https://reactjs.org)
