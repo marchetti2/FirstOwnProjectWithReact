@@ -5,7 +5,6 @@ import { MdSort } from 'react-icons/md';
 import { FaPlus } from 'react-icons/fa';
 import Modal from '../../components/Modal/index';
 import TableResult from '../../components/TableResult';
-import ExitAndStairType from '../../components/ExitAndStairType';
 
 import Card from '../../styles/components/CardTwo';
 
@@ -19,40 +18,13 @@ function SecurityMeasures() {
   const [situation, setSituation] = useState('');
   const [area, setArea] = useState('');
   const [charge, setCharge] = useState('');
-  // const [list, setList] = useState([]);
   const [show, setShow] = useState(false);
   const [modalContent, setModalContent] = useState('');
   const [send, setSend] = useState(false);
 
-  /*  function handleDelete() {
-    setList([]);
-  }
-*/
   function handleSend() {
     setSend(true);
   }
-
-  /*
-  function handleSubmit(e) {
-    e.preventDefault();
-    async function submit() {
-      await handleDelete();
-      setList([
-        ...list,
-        occupation,
-        division,
-        details,
-        charge,
-        area,
-        height,
-        situation,
-      ]);
-    }
-    submit();
-
-    // await this.condition();
-  }
-  */
 
   function showModal() {
     setShow(true);
@@ -224,7 +196,6 @@ function SecurityMeasures() {
               situation={situation}
               height={height}
             />
-            <ExitAndStairType />
           </>
         ) : null}
       </Container>
