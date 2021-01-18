@@ -29,8 +29,8 @@ I tried to use as few dependencies as possible, to try to practice javascript. F
 
 <h4>Requirements</h4>
 
-- [Git](https://classic.yarnpkg.com/) 
-- [Node.js](https://classic.yarnpkg.com/) 
+- [Git](https://git-scm.com) 
+- [Node.js](https://nodejs.org/en/) 
 - [Yarn](https://classic.yarnpkg.com/)
 
 **Clone the project and access the folder**
