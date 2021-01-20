@@ -1,9 +1,13 @@
+<h2>About</h2>
+
 My first own project with React Js. There are still some resources to implement. The application returns information from the CBMMG legislation according to the completed fields.
 I tried to use as few dependencies as possible, to try to practice javascript. Functional component and react hooks were used.
 
 <p align="center">
- <a href="#technologies">Technologies</a> | <a href="#features">Features</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
+ <a href="#screens">Screens</a> | <a href="#technologies">Technologies</a> | <a href="#features">Features</a> | <a href="#started">Getting started</a> | <a href="#license">License</a>
 </p>
+
+<h2 id="screens">Screens</h2>
 
 <p align="center">
   <image width="70%" src="https://media.giphy.com/media/hJlEYPwjuaB3sRU1jh/giphy.gif">
