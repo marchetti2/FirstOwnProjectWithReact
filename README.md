@@ -39,7 +39,7 @@ I tried to use as few dependencies as possible, to try to practice javascript. F
 
 **Clone the project and access the folder**
 ```bash
-$ git clone https://github.com/marchetti2/FirstOwnProjectWithReact.git && cd FirstOwnProjectWithReact
+$ git clone https://github.com/marchetti2/first-project-reactjs.git && cd first-project-reactjs
 ```
 
 **Install the dependencies**
